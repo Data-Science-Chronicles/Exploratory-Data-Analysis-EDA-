@@ -27,10 +27,10 @@ Bivariate analysis deals with two features at a time. This section provides exam
 Multivariate analysis deals with more than two features at a time. This section provides examples and tutorials on how to use both R and Python to perform multivariate analysis, such as creating heat maps, parallel coordinates, and 3D scatter plots.
 
 ## Data Visualization with R and Python
-Both R and Python have powerful tools for data visualization such as ggplot2, matplotlib, seaborn, plotly. This section provides examples and tutorials on how to use these packages to create various types of plots, such as bar plots, line plots, scatter plots, and heat maps.
+Both R and Python have powerful tools for data visualization such as `ggplot2`, `matplotlib`, `seaborn`, `plotly`. This section provides examples and tutorials on how to use these packages to create various types of plots, such as bar plots, line plots, scatter plots, and heat maps.
 
 ## Advanced EDA Techniques with R and Python
-Both R and Python have powerful tools and packages for advanced EDA such as Random Forest, XGBoost, PCA and t-SNE. This section provides examples and tutorials on how to use these packages for advanced EDA tasks such as feature selection, dimensionality reduction, and variable importance analysis.
+Both R and Python have powerful tools and packages for advanced EDA such as `Random Forest` , `XGBoost`, `PCA` and `t-SNE`. This section provides examples and tutorials on how to use these packages for advanced EDA tasks such as feature selection, dimensionality reduction, and variable importance analysis.
 
 ## Case Studies and Examples
 This section provides examples of real-world EDA projects using both R and Python, along with a detailed explanation of the techniques used to explore and understand the data.
