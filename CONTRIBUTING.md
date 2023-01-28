@@ -1,4 +1,5 @@
-Data Science Chronicles (DSC) welcomes contributions to our Exploratory Data Analysis (EDA) repository. Please follow these guidelines when submitting a pull request.
+Data Science Chronicles (DSC) welcomes contributions to our Exploratory Data Analysis (EDA) repository. 
+Please follow these guidelines when submitting a pull request.
 
 * Fork the repository and create a new branch for your changes.
 * Follow the structure of the existing notebooks and add your own notebook in the appropriate directory.
