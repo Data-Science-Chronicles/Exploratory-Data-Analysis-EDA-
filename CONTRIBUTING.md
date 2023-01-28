@@ -1,4 +1,26 @@
 Data Science Chronicles (DSC) welcomes contributions to our Exploratory Data Analysis (EDA) repository. 
+
+* Before making any contributions, please read the README file and understand the purpose and scope of the repository.
+
+* All contributions should be made in the form of a pull request.
+
+* Each pull request should be associated with a specific issue or feature request. If there is no existing issue or feature request, please create one before making your contribution.
+
+* All contributions should be accompanied by clear and concise documentation, including a detailed explanation of the analysis and any relevant visualizations or results.
+
+* All code should be well-organized, readable, and commented.
+
+* All contributions should be tested thoroughly before being submitted.
+
+* Before submitting a pull request, please ensure that your code is in compliance with the repository's coding style and conventions.
+
+* Once a pull request is submitted, it will be reviewed by a member of the Data Science Chronicles team. We may ask for changes or revisions before approving the pull request.
+
+* Please be respectful and professional when communicating with the team and other contributors.
+
+* By submitting a pull request, you agree that your contribution is made under the terms of the repository's license.
+
+
 Please follow these guidelines when submitting a pull request.
 
 * Fork the repository and create a new branch for your changes.
